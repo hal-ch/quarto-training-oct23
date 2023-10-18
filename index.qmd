@@ -3,3 +3,8 @@ title: "Website Test"
 ---
 
 Hi, my name is Hal.
+
+```{r}
+library(tidyverse)
+mtcars %>% slice(1)
+```
